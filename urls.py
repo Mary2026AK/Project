@@ -5,4 +5,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('pril.urls'))
 ]
-
+#ololololo
